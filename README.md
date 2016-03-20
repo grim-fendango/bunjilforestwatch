@@ -9,7 +9,7 @@
 
 Bunjil Forest Watch continuously checks for new satellite images covering a conservation area of interest. It scans public databases, such as LANDSAT images published at USGS. The boundary coordinates of an area to be monitored is provided by local conservation groups when they subscribe to the free service. When the solution finds new images covering their area it emails a volunteer to check for recent disturbances.
 
-Volunteers review the latest images of an area and compare with older images. They mark-up any recent changes observed, such as new roads or clearings. The solution captures the coordinates of the change and sends a concise email or SMS report to the local group. The local group responds to the observed threats as they see fit.This service will connect local conservation groups in remote tropical regions with a network of volunteers who share the timely analysis of satellite images.
+Volunteers review the latest images of an area and compare with older images. They mark-up any recent changes observed, such as new roads or clearings. The solution captures the coordinates of the change and sends a concise email or SMS report to the local group. The local group responds to the observed threats as they see fit.This service will connect local conservation groups in remote tropical regions with a network of volunteers who share the timely analysis of satellite images.flabs
 
 ## DEVELOPER NOTES
 
